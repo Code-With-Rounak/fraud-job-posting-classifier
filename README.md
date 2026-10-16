@@ -69,6 +69,6 @@ Python, pandas, scikit-learn, XGBoost, Jupyter Notebook
 
 ## Author
 
-**Rounak** · [GitHub link] · [LinkedIn link]
+**Rounak** 
 
 Dataset credit: University of the Aegean, Laboratory of Information and Communication Systems Security (EMSCAD), shared on Kaggle by shivamb.
